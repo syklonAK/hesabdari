@@ -1,0 +1,5 @@
+python-telegram-bot==20.7
+SQLAlchemy==2.0.27
+python-dotenv==1.0.1
+jdatetime==4.1.1
+hijri-converter==2.3.1 
